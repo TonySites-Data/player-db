@@ -4,5 +4,11 @@
         "Power": 89201991,
         "Player_Level": 25,
         "Alliance": "Eternals of Atlantis"
-    }
+    },
+    "John Doe": {
+        "name": "John Doe",
+        "Power": "Way Too Much"
+        "Player_Level": 25
+        "Alliance": "The John Doe Family"
+    },
 }
